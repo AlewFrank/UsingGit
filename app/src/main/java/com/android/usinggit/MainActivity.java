@@ -10,5 +10,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        String hello = "Hello Git";
+        //сразу после добавления кода вдоль номеров строк проходит зеленая линия, показывающая то, что этих строк нет в той версии, которая была сохранена в git
     }
 }
