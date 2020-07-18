@@ -14,4 +14,6 @@ public class MainActivity extends AppCompatActivity {
         String hello = "Hello Git";
         //сразу после добавления кода вдоль номеров строк проходит зеленая линия, показывающая то, что этих строк нет в той версии, которая была сохранена в git
     }
+
+    //Connect Firebase to the Project
 }
