@@ -16,4 +16,5 @@ public class MainActivity extends AppCompatActivity {
     }
 
     //Connect Firebase to the Project
+    //Еще одна строка, чтоб понять обновляется все или нет
 }
